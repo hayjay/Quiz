@@ -131,7 +131,6 @@ class ViewController: UIViewController {
         }
     }
     
-    
     func startOver() {
        //reset the question number that tracks which question we already on
         //reset back to 0
